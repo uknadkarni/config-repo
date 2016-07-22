@@ -1,3 +1,6 @@
+app:
+  greeting: "Hello, world (application.yml from config-repo)"
+
 security:
   basic:
     enabled: false
