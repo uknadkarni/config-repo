@@ -1,5 +1,5 @@
 app:
-  greeting: "Hello, world (application.yml from config-repo)"
+  greeting: "Hello, world (from application.yml in config-repo)"
 
 security:
   basic:
