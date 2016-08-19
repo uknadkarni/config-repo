@@ -1,7 +1,6 @@
 app:
   greeting: "Hello, world (from application.yml in config-repo)"
 
-message: "From application.yml in config-repo"
 
 security:
   basic:
